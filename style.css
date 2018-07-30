@@ -1,0 +1,52 @@
+/* *{
+  outline:1px solid black;
+} */
+html,body{
+    overflow-x: hidden;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align:center;
+    color: white;
+  }
+  
+  #inbet{
+    height:150px;
+    background: url('LOGO1.png') no-repeat center;
+    background-size: 66px;
+  }
+  #centeer{
+    margin:auto;
+    width:300px;
+    height:400px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    background: #041527;
+    border:1px double white;
+   
+  }
+  #outpost{
+      background: url('Untitled-5.svg') repeat ;
+      background-size: 400px;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:space-around;
+    
+  }
+  #buttoni{
+    display:flex;
+  }
+  button{
+    margin:auto;
+    width:190px;
+    height:34px;
+    background:#000;
+    border:2px solid black;
+    border-radius:30px;
+    color: white;
+  }
