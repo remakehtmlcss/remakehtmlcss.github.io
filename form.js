@@ -1,3 +1,3 @@
 function clickit(){
-    window.location="https://runnyweaselone.github.io/"
+    window.location="https://qandagthub.github.io/"
   }
